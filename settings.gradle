@@ -1,0 +1,3 @@
+include ':build.gradle.kts'
+include ':app'
+rootProject.name = "IdiomasAPI"
